@@ -109,7 +109,7 @@ I'm interested in opportunities to grow within cybersecurity, collaborate on sec
 
 💼 **Career Interests:** SOC Analyst | Security Analyst | Cybersecurity Analyst
 
-📫 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/delaqsmith/)
+📫 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dela-smith/)
 
 ---
 
