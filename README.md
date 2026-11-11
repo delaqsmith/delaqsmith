@@ -68,6 +68,7 @@ My GitHub is a collection of hands-on cybersecurity projects where I apply secur
 | [Investigate a Security Breach](https://github.com/delaqsmith/investigate-security-breach-with-splunk) | Developed detection rules mapped to MITRE ATT&CK techniques to investigate a simulated security breach. | Splunk, SPL, MITRE ATT&CK |
 | [Analyze Web Logs](https://github.com/delaqsmith/analyze-web-logs-with-splunk) | Ingested and analyzed web server and authentication logs to identify security-relevant activity and build monitoring dashboards. | Splunk, SPL |
 | [Detect Brute Force](https://github.com/delaqsmith/investigate-brute-force-with-splunk) | Detected and investigated brute-force login attempts using Splunk and SPL to analyze authentication logs, identify suspicious IP addresses, and uncover attack patterns. | Splunk, SPL, MITRE ATT&CK, csv |
+| [Security Monitoring System](https://github.com/delaqsmith/aws-security-monitoring-system) | Configured AWS security logging, monitoring, and notifications to detect access to sensitive cloud resources. | AWS CloudTrail, CloudWatch, SNS |
 
 ### 🤖 Security Orchestration, Automation & Response
 
