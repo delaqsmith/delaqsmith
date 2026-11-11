@@ -65,27 +65,17 @@ My GitHub is a collection of hands-on cybersecurity projects where I apply secur
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **Investigate a Security Breach** | Investigated security events, suspicious network traffic, authentication failures, and indicators of compromise using the BOTS v1 dataset. | Splunk, SPL, BOTS v1 |
-| **Analyze Web Logs** | Ingested and analyzed web server and authentication logs to identify security-relevant activity and build monitoring dashboards. | Splunk, SPL |
-| **Detect an Attack Chain** | Developed detection rules mapped to MITRE ATT&CK techniques to investigate a simulated multi-stage intrusion. | Splunk, Sysmon, MITRE ATT&CK |
-| **Security Monitoring System** | Configured AWS security logging, monitoring, and notifications to detect access to sensitive cloud resources. | AWS CloudTrail, CloudWatch, SNS |
+| [Investigate a Security Breach](https://github.com/delaqsmith/investigate-security-breach-with-splunk) | Investigated security events, suspicious network traffic, authentication failures, and indicators of compromise using the BOTS v1 dataset. | Splunk, SPL, BOTS v1 |
+| [Analyze Web Logs](https://github.com/delaqsmith/analyze-web-logs-with-splunk) | Ingested and analyzed web server and authentication logs to identify security-relevant activity and build monitoring dashboards. | Splunk, SPL |
+| [Detect an Attack Chain](https://github.com/delaqsmith/splunk-attack-chain-detection) | Developed detection rules mapped to MITRE ATT&CK techniques to investigate a simulated multi-stage intrusion. | Splunk, Sysmon, MITRE ATT&CK |
 | **Multi-Cloud SIEM** | Designed centralized security monitoring for AWS and Azure telemetry using Microsoft Sentinel. | Microsoft Sentinel, AWS, Azure, KQL |
 
 ### 🤖 Security Orchestration, Automation & Response
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **IP Reputation Checker** | Automated IP reputation lookups and enrichment to support security alert triage. | n8n, AbuseIPDB |
-| **Brute-Force Attack Enrichment** | Built an automated workflow to enrich brute-force alerts, calculate risk scores, assign severity, and generate notifications and tickets. | n8n, Wazuh, AbuseIPDB, Trello |
-| **Phishing Email to Ticket** | Automated phishing alert parsing, URL reputation analysis, threat scoring, and incident ticket creation. | n8n, Wazuh, VirusTotal |
-| **File Hash Reputation Checker** | Developed a workflow for automating file hash reputation checks. | n8n, Threat Intelligence APIs |
-
-### 🌐 Network Security & Traffic Analysis
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **Capture and Analyze Network Traffic** | Captured and examined DNS, TCP, and HTTP/HTTPS traffic while mapping packet data to the OSI model. | Wireshark, TCP/IP |
-| **Attack-and-Detect Lab** | Built an isolated virtual security lab to generate test traffic and investigate IDS alerts. | Suricata, Ubuntu, VirtualBox |
+| [Brute-Force Attack Enrichment](https://github.com/delaqsmith/soar-brute-force-alert-enrichment) | Built an automated workflow to enrich brute-force alerts, calculate risk scores, assign severity, and generate notifications and tickets. | n8n, Wazuh, AbuseIPDB, Trello |
+| [Phishing Email to Ticket](https://github.com/delaqsmith/soar-phishing-email-ticket-automation) | Automated phishing alert parsing, URL reputation analysis, threat scoring, and incident ticket creation. | n8n, Wazuh, VirusTotal |
 
 > 📁 Explore my repositories for project documentation, investigation findings, detection queries, workflow configurations, and screenshots.
 
@@ -109,7 +99,7 @@ My current areas of interest include:
 - 🛡️ Detection engineering using SPL and KQL
 - 🤖 SOC automation and alert enrichment
 - ☁️ Cloud security monitoring across AWS and Azure
-- 🌐 Network traffic analysis and intrusion detection
+- 🌐 Network security and traffic
 - 🚨 Incident response and investigation documentation
 
 ---
