@@ -65,10 +65,9 @@ My GitHub is a collection of hands-on cybersecurity projects where I apply secur
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Investigate a Security Breach](https://github.com/delaqsmith/investigate-security-breach-with-splunk) | Investigated security events, suspicious network traffic, authentication failures, and indicators of compromise using the BOTS v1 dataset. | Splunk, SPL, BOTS v1 |
+| [Investigate a Security Breach](https://github.com/delaqsmith/investigate-security-breach-with-splunk) | Developed detection rules mapped to MITRE ATT&CK techniques to investigate a simulated security breach. | Splunk, SPL, MITRE ATT&CK |
 | [Analyze Web Logs](https://github.com/delaqsmith/analyze-web-logs-with-splunk) | Ingested and analyzed web server and authentication logs to identify security-relevant activity and build monitoring dashboards. | Splunk, SPL |
-| [Detect an Attack Chain](https://github.com/delaqsmith/splunk-attack-chain-detection) | Developed detection rules mapped to MITRE ATT&CK techniques to investigate a simulated multi-stage intrusion. | Splunk, Sysmon, MITRE ATT&CK |
-| **Multi-Cloud SIEM** | Designed centralized security monitoring for AWS and Azure telemetry using Microsoft Sentinel. | Microsoft Sentinel, AWS, Azure, KQL |
+| [Detect Brute Force](https://github.com/delaqsmith/investigate-brute-force-with-splunk) | Detected and investigated brute-force login attempts using Splunk and SPL to analyze authentication logs, identify suspicious IP addresses, and uncover attack patterns. | Splunk, SPL, MITRE ATT&CK, csv |
 
 ### 🤖 Security Orchestration, Automation & Response
 
